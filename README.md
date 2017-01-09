@@ -1,2 +1,2 @@
-# bender
-IFTT but better (hopefully)
+# μbender-factory-rodriguez
+IFTTT but better (hopefully)
